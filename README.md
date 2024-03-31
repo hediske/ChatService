@@ -3,7 +3,7 @@
 This project is a java application based on TCP Sockets for Chat that allows
     <ul>
         <li>    the ceation of Server that offer a broadcast channel for multiple clients at the same time 
-        <li>    A runtime Chat app allowing each client to send and receive messages from all the other users 
+        <li>    A realtime Chat app allowing each client to send and receive messages from all the other users 
     </ul> 
 <h2>
 Prerequities
